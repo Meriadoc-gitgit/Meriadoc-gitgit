@@ -1,4 +1,4 @@
-![](aragorn.GIF)
+<p align="center">![](aragorn.GIF)</p>
 # Suilad Mellon :leaves:
 I believe that knowledge should be shared equitably for all. 
 Following are some facts for everyone to get to know me. I am: <br>
