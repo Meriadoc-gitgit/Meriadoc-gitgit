@@ -1,7 +1,7 @@
 <p align="center"><img src="aragorn.GIF"></p>
 
 # Suilad Mellon :leaves:
-> “It is not despair, for despair is only for those who see the end beyond all doubt. We do not.” - Gandalf
+> “It is not despair, for despair is only for those who see the end beyond all doubt. We do not.” - Gandalf the Grey
 
 I always believe that knowledge should be shared equitably for all. <br>
 Following are some *"fun"* facts for everyone to get to know me. I am: <br>
