@@ -10,7 +10,7 @@ Following are some *"fun"* facts for everyone to get to know me. I am: <br>
 - Most importantly, **a Vietnamese girl** :vietnam: . I am proud to be a Vietnamese girl and to show the world how amazing my country is, what we can do, and who we are.
 
 
-![Meriadoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondgv&show_icons=true&theme=default&align=)
+![Meriadoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondgv&show_icons=true&theme=default&align=center)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leondgv&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
