@@ -2,6 +2,9 @@
 
 # Suilad Mellon :leaves:
 > “It is not despair, for despair is only for those who see the end beyond all doubt. We do not.” - Gandalf the Grey
+
+![Meriadoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=vision-friendly-dark)
+
 I always believe that knowledge should be shared equitably for all. <br>
 Following are some *"fun"* facts for everyone to get to know me. I am: <br>
 - **A student** :child: . I’m a foreign student who came to France to pursue my Bachelor's in Computer Science. I strongly believe we can do more than we think we can, if we are willing to do it and that everyone should be given a chance to develop and prove themselves. I’m always ready to study and currently seeking an internship in a dynamic company in the field of Data Science and Machine Learning. 
