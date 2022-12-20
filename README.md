@@ -10,3 +10,11 @@ Following are some *"fun"* facts for everyone to get to know me. I am: <br>
 - Most importantly, **a Vietnamese girl** :vietnam: . I am proud to be a Vietnamese girl and to show the world how amazing my country is, what we can do, and who we are.
 
 Thank you for visiting my gitgit guys :smiley_cat: :wave: <br>
+
+![Meriadoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondgv&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leondgv&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/leondgv/leondgv/blob/output/github-contribution-grid-snake.svg)
+
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fleondgv%2Fleondgv&countColor=%230096ff&style=default)
