@@ -3,8 +3,8 @@
 # Suilad Mellon :leaves:
 ![Merry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=default)
 
-« Cơn đau trên lưng là để mọc cánh.
-Những viên đá đứng yên chắc chắn sẽ phủ đầy rêu xanh. »
+>« Cơn đau trên lưng là để mọc cánh.
+>Những viên đá đứng yên chắc chắn sẽ phủ đầy rêu xanh. »
 
 « The pain in your back is the weight of growing wings. Stones that remain still will inevitably be covered in moss. »
 
