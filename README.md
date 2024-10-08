@@ -6,7 +6,7 @@
 « Cơn đau trên lưng là để mọc cánh.
 Những viên đá đứng yên chắc chắn sẽ phủ đầy rêu xanh. »
 
-“The pain in your back is the weight of growing wings. Stones that remain still will inevitably be covered in moss.”
+« The pain in your back is the weight of growing wings. Stones that remain still will inevitably be covered in moss. »
 
 I believe in the timeless beauty of perseverance and relentless hard work. Success isn’t about waiting for the right moment; it’s about making the impossible possible through consistent effort. No matter how challenging the journey, I tackle every goal, every obstacle, with unwavering determination.
 
