@@ -1,6 +1,6 @@
 <p align="center"><img src="aragorn.GIF"></p>
 
-# Suilad Mellon :leaves:
+# Chào cả nhà :leaves:
 ![Merry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=transparent)
 
 
@@ -18,7 +18,7 @@ That’s my mindset. That’s how I approach every game, every challenge. I don�
 
 Let’s do itttt.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriadoc-gitgit&langs_count=8&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriadoc-gitgit&langs_count=8&layout=compact&hide=jupyter%20notebook,html&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMeriadoc-gitgit%2FMeriadoc-gitgit&countColor=%230000FF&style=flat-square)
 
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMeriadoc-gitgit%2FMeriadoc-gitgit&countColor=#0000FF&style=default)
