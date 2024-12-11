@@ -17,6 +17,7 @@ That’s my mindset. That’s how I approach every game, every challenge. I don�
 
 Let’s do itttt.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriadoc-gitgit&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriadoc-gitgit&langs_count=8&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMeriadoc-gitgit%2FMeriadoc-gitgit&countColor=#0000FF&style=default)
