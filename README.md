@@ -1,6 +1,6 @@
-<p align="center"><img src="aragorn.GIF"></p>
+<p align="center"><img src="meow.GIF"></p>
 
-# Chào cả nhà :leaves:
+# :leaves: Chào cả nhà :leaves:
 ![Merry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=transparent)
 
 
