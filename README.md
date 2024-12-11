@@ -1,7 +1,8 @@
 <p align="center"><img src="aragorn.GIF"></p>
 
 # Suilad Mellon :leaves:
-![Merry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=default)
+![Merry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meriadoc-gitgit&show_icons=true&theme=transparent)
+
 
 >« Cơn đau trên lưng là để mọc cánh.
 >
